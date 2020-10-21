@@ -1,1 +1,1 @@
-HTML Course SoftUni September - November 2020
+HTML & CSS Course SoftUni September - November 2020
