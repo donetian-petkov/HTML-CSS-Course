@@ -1,0 +1,38 @@
+img {
+  max-width: 300px;
+  max-height: 450px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.gallery-first-row {
+vertical-align: middle;
+border-witdh: 0.4rem;
+boder-color: black;
+border-style: solid;
+display: inline-block;
+}
+
+.gallery-second-row {
+vertical-align: middle;
+border-witdh: 0.4rem;
+boder-color: black;
+border-style: solid;
+display: inline-block;
+}
+
+.gallery-third-row {
+vertical-align: middle;
+border-witdh: 0.4rem;
+boder-color: black;
+border-style: solid;
+display: inline-block;
+}
+
+.gallery-forth-row {
+vertical-align: middle;
+border-witdh: 0.4rem;
+boder-color: black;
+border-style: solid;
+display: inline-block;
+}
