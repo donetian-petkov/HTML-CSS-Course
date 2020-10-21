@@ -1,0 +1,114 @@
+.header {
+  border-bottom: 2px solid;
+  font-family: Georgia, serif;
+}
+
+.site-title {
+  display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Helvetica, sans-serif;
+}
+
+.image1 {
+  float: right;
+}
+
+.image2 {
+  float: left;
+}
+
+
+.image1, .image2 {
+  margin: 10px;
+  border-witdh: 0.4rem;
+  boder-color: black;
+  border-style: solid;
+  padding: 10px;
+  background: rgb(235, 235, 235);
+  box-shadow: 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.quote {
+  border-left: 3px solid grey;
+  padding-left: 5px;
+  width: 50%;
+  float: right;
+
+}
+
+.quote blockquote {
+  float: right;
+  font-family: Georgia, serif;
+}
+
+.author {
+  text-align: right;
+  font-family: Georgia, serif;
+}
+
+.quote, .author {
+  opacity: 80%;
+  font-style: italic;
+}
+
+
+aside, main {
+  display: inline-block;
+  vertical-align: top;
+}
+
+main {
+  width: 70%;
+}
+
+aside {
+  width: 20%;
+}
+
+body {
+  background: rgb(238, 238, 238);
+}
+
+.heading {
+  font-family: Georgia, serif;
+  font-size: 1em 1.2;
+}
+
+.menu-aside li {
+  color: green;
+  list-style-type: square;
+}
+
+.menu-aside a {
+  text-decoration: none;
+}
+
+.header-nav li {
+  display: inline-block;
+  padding-left: 5px;
+  padding-left: 5px;
+  list-style: none;
+}
+
+.header-nav a {
+  text-decoration: none;
+  color: green;
+}
+
+.header-nav {
+    position: relative;
+    left: 79%;
+    top: 30%;
+}
+
+p.site-title {
+  position: relative;
+  top: 80px;
+}
+
